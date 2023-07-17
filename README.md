@@ -17,7 +17,7 @@ A pledge for an ontogenetic tree as the reference for classifying cell types. It
 
 ## 2022 
 
-- Doyle, J. J. (2022). [Cell types as species: Exploring a metaphor.](https://doi.org/10.3389/fpls.2022.868565) Frontiers in Plant Science, 13, 868565. Doyle, Jeff J.  Frontiers in Plant Science 13 (2022): 868565.
+- Doyle, J. J. (2022). [Cell types as species: Exploring a metaphor.](https://doi.org/10.3389/fpls.2022.868565) Frontiers in Plant Science, 13, 868565.
 
 An in-depth dissection of the analogy between organizing cells in types and organizing individual organisms in species. For different facets, such as "Philosophical underpinnings', Jeff Doyle explores the cell type side and the species side, finalizing with synthesis and outstanding questions. With an impressive coverage of the literature, and the clarity of the writing, the article is a must-read, and under-discussed in the human cell type community.  
 
