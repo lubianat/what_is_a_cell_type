@@ -57,8 +57,9 @@ I also share the idea that we should probably not go ahead and just create milli
 I very much appreciate the use of knowledge graphs and ontologies for organizing information, alongside Bernstein. 
 His description is consistent, and implicitly considers that the Cell Ontology (or some other cell ontology) should represent disease states, what is currently (July 2023) not done. 
 
+# 2010's
 
-
+- Clevers H, Rafelski S, Elowitz M, Klein A, Shendure J, Trapnell C, Lein E, Lundberg E, Uhlen M, Martinez-Arias A, Sanes JR. [What is your conceptual definition of “cell type” in the context of a mature organism?.](https://doi.org/10.1016/j.cels.2017.03.006) Cell Systems. 2017 Mar 22;4(3):255-9.
 
 
 
