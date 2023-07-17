@@ -1,6 +1,7 @@
 # What is a cell type? 
 
 By Tiago Lubiana 
+
 tiago.lubiana.alves@usp.br
 
 A chronological collection of the core scientific articles discussing the concept of cell type, cell state, and similar concepts.
