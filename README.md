@@ -32,7 +32,7 @@ A pledge for an ontogenetic tree as the reference for classifying cell types. It
 
 An in-depth dissection of the analogy between organizing cells in types and organizing individual organisms in species. For different facets, such as "Philosophical underpinnings', Jeff Doyle explores the cell type side and the species side, finalizing with synthesis and outstanding questions. With an impressive coverage of the literature, and the clarity of the writing, the article is a must-read, and under-discussed in the human cell type community.  
 
-# 2021
+## 2021
 
 - Bernstein, MN.  [On cell types and cell states](https://mbernste.github.io/posts/cell_types_cell_states/)  - Blog. 2021 Mar 03
 
