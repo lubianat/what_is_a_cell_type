@@ -53,4 +53,10 @@ I like Samantha's consideration that  *cluster-specific gene expression is used 
 
 An influential collection of perspectives on the nature of cell type, mostly by leading biomedical researchers, with brief statements. Discusses the perspectives on cell types x cell states, the role of function and the increasingly important role of transcriptomics as a ruler to divide cell types apart. A must read and re-read.  
 
+## 2015 
+
+- Trapnell C. [Defining cell types and states with single-cell genomics.](https://doi.org/10.1101/gr.190595.115) Genome research. 2015 Oct 1;25(10):1491-8.
+
+An early perspective of the impact of single-cell transcriptomics on the definition of "cell type" and the discovery of new cell classes. Discusses the technical advances from bulk techniques, and how that enables a fine-grained perspective on cell function; crucially discusses how incorrect grouping of samples might lead to *qualitatively incorrect* interpretations. Cole Trapnell considers also the perspective of pseudotime analysis (e.g. inferring directional time-based state changes from a static populational snapshot), a type of analysis he invented (or at least co-invented). He then goes on to discuss the technical aspects of (early) scRNA-seq analysis and other single-cell omics. Waddington's developmental landscape and attractor basins/wells are a constant topic.
+
 
