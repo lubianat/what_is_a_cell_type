@@ -53,6 +53,17 @@ I like Samantha's consideration that  *cluster-specific gene expression is used 
 
 An influential collection of perspectives on the nature of cell type, mostly by leading biomedical researchers, with brief statements. Discusses the perspectives on cell types x cell states, the role of function and the increasingly important role of transcriptomics as a ruler to divide cell types apart. A must read and re-read.  
 
+## 2016 
+- Arendt D, Musser JM, Baker CV, Bergman A, Cepko C, Erwin DH, Pavlicev M, Schlosser G, Widder S, Laubichler MD, Wagner GP. [The origin and evolution of cell types.](https://doi.org/10.1038/nrg.2016.127) Nature Reviews Genetics. 2016 Dec;17(12):744-57.
+
+Detlev Arendt, an evolution researcher with a focus on the marine annelid *Platynereis dumerilii*, presents a thorough description of the notion of "cell type" in light of the evolution. The idea of a "Core Regulatory Complex (CoRC)" of transcription factors determining each cell type is very influential. Defines a cell type as ‘a set of cells in an organism that change in evolution together, partially independent of other cells, and are evolutionarily more closely related to each other than to other cells’. 
+The article also includes an impressive [glossary](https://www.nature.com/articles/nrg.2016.127#Glos1), proposing definitions for many terms relevant to understanding the evolutionary definition of "cell type". Talks about cell types as fundamental evolutionary units (*Modular biological entities capable of evolving as a cohesive unit and at least partially independently of others*) similar to genes and species. 
+
+The article discusses explicitly cell type *homology* across species via the sharing of conserved CoRCs. It also builds upon Oliver Hobert's notion of "terminal selectors", a set of transcription factors that establish and maintain postmitotic cell identity. Notably, it extends Owen's 1848 definition of homology to cell types, with a mechanistic explanation of  'same cell type regardless of form and function', with an example for muscle cells across species where *the CoRC from homologous cell types is conserved, whereas the phenotype of the cell is more flexible*. 
+
+Arendt's article is a fantastic entry point to look at cells from an evolutionary perspective. The atlas-builders of today are usually interested in the current snapshot of cell types, in a fashion of evolution-stable account of cell types and their behaviours and humans. In many ways, atlas-builders are more interested in phenotype and function than in homology and history. Nevertheless, as the world is only one, having an evolutionary account of cell types is fundamental for efficiently organizing knowledge about cell types. 
+
+
 ## 2015 
 
 - Trapnell C. [Defining cell types and states with single-cell genomics.](https://doi.org/10.1101/gr.190595.115) Genome research. 2015 Oct 1;25(10):1491-8.
