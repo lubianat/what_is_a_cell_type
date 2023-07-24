@@ -70,6 +70,19 @@ Arendt's article is a fantastic entry point to look at cells from an evolutionar
 
 An early perspective of the impact of single-cell transcriptomics on the definition of "cell type" and the discovery of new cell classes. Discusses the technical advances from bulk techniques, and how that enables a fine-grained perspective on cell function; crucially discusses how incorrect grouping of samples might lead to *qualitatively incorrect* interpretations. Cole Trapnell considers also the perspective of pseudotime analysis (e.g. inferring directional time-based state changes from a static populational snapshot), a type of analysis he invented (or at least co-invented). He then goes on to discuss the technical aspects of scRNA-seq analysis and other single-cell omics. Waddington's developmental landscape and attractor basins/wells are constant topics throughout the article.
 
+## 2014 
+
+- Kepecs A, Fishell G. [Interneuron cell types are fit to function.](https://doi.org/10.1038/nature12983) Nature. 2014 Jan 16;505(7483):318-26.
+
+A somewhat niche review focusing on interneurons, but provides insights for the larger classification of cell types. Provides a summarizing standpoint stating that they*the large diversity in interneuron classes may originate from a handful of cardinal cell types* (...) *we hope (we) will help to direct future studies by consolidating interneuron diversity into cardinal classes with specific ground states.*. They go further to consider that *nature has conspired to bestow on* (interneurons) *generalized computational function that necessitated the presence of common biophysical and hodological properties*
+
+I like the wording of *cardinal classes*, as it is precisely vague in stating that these classes are important, even in absolute, developmentally-determined nature. They bring the interesting perspective of a core parts-list of neurons, that is somewhat malleable and can be employed in different contexts. Or, as the say, *a limited set of building blocks to create enormous diversity circuits*.
+
+An additional note is that they deal with 4 main different criteria combined to classify interneurons: morphology, connectivity pattern, markers, and "intrinsic properties" (firing patterns, I suppose). Also considers in detail the development of interneurons from *discrete proliferative regions*. Nevertheless, mentions that  *referring to an interneuron's origin as deriving from a specific embryonic structure may be an imprecise proxy for gene expression*.
+
+I do wish they had provided an actual list of "cardinal classes" of interneurons, even if provisional. Of note, the concept of "cardinal classes" is not super hot on the scientific literature, with 8 pubmed hits (Jul 2023, [link](https://pubmed.ncbi.nlm.nih.gov/?term=%22cardinal+classes%22+%2B+neuron)). It seems to fare better in the spinal chord community, with a 2021 articles in Science and Nature Communications bearing the names [*"Conserved genetic signatures parcellate cardinal spinal neuron classes into local and projection subsets"*](https://doi.org/10.1126/science.abe0690) and [*"A harmonized atlas of mouse spinal cord cell types and their spatial organization"*](https://doi.org/10.1038/s41467-021-25125-1), neither citing this review.  A 2023 article on Neuron, [*"Cortical somatostatin interneuron subtypes form cell-type-specific circuits"*](https://doi.org/10.1016/j.neuron.2023.05.032), however, uses the concept for cortical interneurons as a whole and does cite this review. 
+
+
 # 2000's
 
 ## 2006 
@@ -78,7 +91,7 @@ An early perspective of the impact of single-cell transcriptomics on the definit
 
 Vickaryous (great name, by the way) and Hall present a good overview of the cell type discussion, and provide a list of 411 in the adult *Homo sapiens*, including 145 types of names. Their catalog starts from *the cell as a component of one of the four basic tissue types (epithelial, nervous,
 muscular, and connective tissue* with divisions based on explicit anatomical, functional and molecular criteria, as well as relying on previous catalogs. They discuss individually the criteria for including/excluding several cell types, and make it clear that *acceptance of this compilation requires that each cell
-type listed is presumed to represent a mature, fully differentiated entity (cells are terminally differentiated) and that these cells have a stable differentiation*. These cell types are organized under *34 terminal artificial classification categories *(designated A to HH)*.
+type listed is presumed to represent a mature, fully differentiated entity (cells are terminally differentiated) and that these cells have a stable differentiation*. These cell types are organized under 34 terminal artificial classification categories *(designated A to HH)*.
 Considers cell types *mutable biological units, comparable with species and genes*.
 
 They discuss cell-type catalogs throughout the second half of the XX century, specially Rodieck & Brening, 1983, but go as further as to discuss Schwann's seminal categorization of cells around 1839. Mentions briefly that the "analogy between cell types and organisms is not only convenient but practical". The Table 1. Pathways to cell type diversity is quite interesting, considering normal development, but also transdifferentiation and metaplasia, topics that are sometimes left aside. 
