@@ -20,20 +20,20 @@ Citations are added in Vancouver style to preserve fine-grained publication date
 
 ## 2023 
 
-- Domcke S, Shendure J. [A reference cell tree will serve science better than a reference cell atlas](https://doi.org/10.1016/j.cell.2023.02.016). Cell. 2023 Mar 16;186(6):1103-14. 
+### Domcke S, Shendure J. [A reference cell tree will serve science better than a reference cell atlas](https://doi.org/10.1016/j.cell.2023.02.016). Cell. 2023 Mar 16;186(6):1103-14. 
 
 A pledge for an ontogenetic tree as the reference for classifying cell types. It brings exciting points of view, but misses essential literature such as [Jeff Doyle's "Cell types as species: Exploring a metaphor"](https://doi.org/10.3389/fpls.2022.868565) and the whole Cell Ontology endeavor. It extends the ontogenetic classification of *C. elegans* to other organisms, but requires critical technical advances before applying to humans.
 
 
 ## 2022 
 
-- Doyle JJ. [Cell types as species: Exploring a metaphor.](https://doi.org/10.3389/fpls.2022.868565) Frontiers in Plant Science. 2022 Aug 22;13:868565.
+### Doyle JJ. [Cell types as species: Exploring a metaphor.](https://doi.org/10.3389/fpls.2022.868565) Frontiers in Plant Science. 2022 Aug 22;13:868565.
 
 An in-depth dissection of the analogy between organizing cells in types and organizing individual organisms in species. For different facets, such as "Philosophical underpinnings', Jeff Doyle explores the cell type side and the species side, finalizing with synthesis and outstanding questions. With an impressive coverage of the literature, and the clarity of the writing, the article is a must-read and, in my opinion, under-discussed in the human cell type community.  
 
 ## 2021
 
-- Bernstein, MN.  [On cell types and cell states](https://mbernste.github.io/posts/cell_types_cell_states/)  - Blog. 2021 Mar 03
+### Bernstein, MN.  [On cell types and cell states](https://mbernste.github.io/posts/cell_types_cell_states/)  - Blog. 2021 Mar 03
 
 Very interesting blogpost, with a computer-science oriented mindset and graph representations. Talks about "*cell types are a subset of cell states*" in a state space, meaning that "each cell type is a subset of the *total set* of states". Bernstein is talking about a particular cell and its states alongside its life cycle. Then, in the final part, he proceeds to define the concept across different individuals, by considering their set of states as *two disconnected, and approximately isomorphic subgraphs*. Bernstein has an all-inclusive view of cell type, where any arbitrary collection of cell states could be called a "cell type", a perspective I shared on a 2021 preprint called ["Towards a pragmatic definition of cell type"](https://www.authorea.com/users/384178/articles/501068-towards-a-pragmatic-definition-of-cell-type). I've been changing my mind, however, and preferring the term "cell class" for that idea, as the *term* cell type is probably better reserved for a particular kind of class with some characteristics, such as stable properties. 
 
@@ -41,7 +41,7 @@ I also think that we should *not* create millions of classes and instead think w
 
 ## 2020 
 
- - Miller JA, Gouwens NW, Tasic B, Collman F, van Velthoven CT, Bakken TE, Hawrylycz MJ, Zeng H, Lein ES, Bernard A. [Common cell type nomenclature for the mammalian brain.](https://doi.org/10.7554/eLife.59928) Elife. 2020 Dec 29;9:e59928.
+### Miller JA, Gouwens NW, Tasic B, Collman F, van Velthoven CT, Bakken TE, Hawrylycz MJ, Zeng H, Lein ES, Bernard A. [Common cell type nomenclature for the mammalian brain.](https://doi.org/10.7554/eLife.59928) Elife. 2020 Dec 29;9:e59928.
 
  
 Jeremy Miller and colleagues at the Allen Institute discuss some of the challenges in organizing cell types in single cell transcriptomics. Miller under the motivation that a *community-recognized repository for storing and tracking cell type assignments and associated taxonomies does not currently exist*, and discusses current efforts related to the Cell Ontology and the formal organization of cell types. States the need for *(1) standard nomenclature and (2) centralized and standardized infrastructure associated with cell type classification.* While I agree with the latter, I do not necessarily agree with the need for standard nomenclature for all cell classes, maybe only for cardinal cell classes. 
@@ -58,7 +58,7 @@ They present several 5 use cases with real-world datasets that make the work hav
 In the final discussion, Jeremy contextualizes the CCN with the current efforts in the OBO Foundry (and even on the Wikidata knowledge graph, my topic of expertise) for organizing cell types. Claims that  we would benefit for *Centralizing a location for taxonomies, their associated cell sets, and underlying datasets*, and claims for a *cell type standards governing body* for *vetting ontologies for organizing data, controlled vocabulary for assigning cell type nomenclature, and will need to define a process for submission to ensure that critical data and metadata can be stored in a robust database"*, similar to the HUGO Gene Nomenclature Committee (HGNC), and mentions  *efforts under way through BRAIN Initiative-funded initiatives*. The Cell Ontology *de facto* plays some of those roles today, but I agree with Miller et al. that probably a more powerful (and well-funded) standards governing body could help accelerate the development of good standards. 
 
 
-- Fishell G, Kepecs A. Interneuron types as attractors and controllers. [Annual review of neuroscience.](https://doi.org/10.1146/annurev-neuro-070918-050421) 2020 Jul 8;43:1-30.
+### Fishell G, Kepecs A. Interneuron types as attractors and controllers. [Annual review of neuroscience.](https://doi.org/10.1146/annurev-neuro-070918-050421) 2020 Jul 8;43:1-30.
 
 In this continuation to 2014's "[Interneuron cell types are fit to function.](https://doi.org/10.1038/nature12983)", Fishell and Kepecs this time base their propositions on "attractor states" arguing that *subtype identity is generated using a configurational (rather than combinatorial) code of transcription factors* and analyzing evidence that *combinations of TFs can initialize but not realize cell fates*. They trace back the attractor concept to Waddington's work and argue that there is a translation of *Waddington's concepts of chreods (canalized paths of development) to trajectories and homeorhesis (the tendency to return to a path) to attractor states.* 
 
@@ -73,19 +73,19 @@ They start to contextualize the diversity of interneuron types during evolution,
 # 2010's
 
 ## 2019 
-- Morris SA. [The evolving concept of cell identity in the single cell era.](https://doi.org/10.1242/dev.169748) Development. 2019 Jun 15;146(12):dev169748.
+### Morris SA. [The evolving concept of cell identity in the single cell era.](https://doi.org/10.1242/dev.169748) Development. 2019 Jun 15;146(12):dev169748.
 
 A discussion of cell identity around 3 pillars: (1) phenotype and function as a central pillar, (2) lineage as a second dimension for full characterization and (3) state as the range of flexible sub-phenotypes a given identity can acquire. In this work, cell identity and cell type are treated as synonyms. Deals with cell types/identities as 'hard-wired' but reprogrammable and cell states as 'softwired'. 
 
 I like Samantha's consideration that  *cluster-specific gene expression is used to infer cell type, representing an initial prediction of identity that must be orthogonally validated*. This is often forgotten in large-scale transcriptomics study. 
 
 ## 2017
-- Clevers H, Rafelski S, Elowitz M, Klein A, Shendure J, Trapnell C, Lein E, Lundberg E, Uhlen M, Martinez-Arias A, Sanes JR. [What is your conceptual definition of “cell type” in the context of a mature organism?.](https://doi.org/10.1016/j.cels.2017.03.006) Cell Systems. 2017 Mar 22;4(3):255-9.
+### Clevers H, Rafelski S, Elowitz M, Klein A, Shendure J, Trapnell C, Lein E, Lundberg E, Uhlen M, Martinez-Arias A, Sanes JR. [What is your conceptual definition of “cell type” in the context of a mature organism?.](https://doi.org/10.1016/j.cels.2017.03.006) Cell Systems. 2017 Mar 22;4(3):255-9.
 
 An influential collection of perspectives on the nature of cell type, mostly by leading biomedical researchers, with brief statements. Discusses the perspectives on cell types x cell states, the role of function and the increasingly important role of transcriptomics as a ruler to divide cell types apart. A must read and re-read.  
 
 ## 2016 
-- Arendt D, Musser JM, Baker CV, Bergman A, Cepko C, Erwin DH, Pavlicev M, Schlosser G, Widder S, Laubichler MD, Wagner GP. [The origin and evolution of cell types.](https://doi.org/10.1038/nrg.2016.127) Nature Reviews Genetics. 2016 Dec;17(12):744-57.
+### Arendt D, Musser JM, Baker CV, Bergman A, Cepko C, Erwin DH, Pavlicev M, Schlosser G, Widder S, Laubichler MD, Wagner GP. [The origin and evolution of cell types.](https://doi.org/10.1038/nrg.2016.127) Nature Reviews Genetics. 2016 Dec;17(12):744-57.
 
 Detlev Arendt, an evolution researcher with a focus on the marine annelid *Platynereis dumerilii*, presents a thorough description of the notion of "cell type" in light of the evolution. The idea of a "Core Regulatory Complex (CoRC)" of transcription factors determining each cell type is very influential. Defines a cell type as ‘a set of cells in an organism that change in evolution together, partially independent of other cells, and are evolutionarily more closely related to each other than to other cells’. 
 The article also includes an impressive [glossary](https://www.nature.com/articles/nrg.2016.127#Glos1), proposing definitions for many terms relevant to understanding the evolutionary definition of "cell type". Talks about cell types as fundamental evolutionary units (*Modular biological entities capable of evolving as a cohesive unit and at least partially independently of others*) similar to genes and species. 
@@ -97,13 +97,13 @@ Arendt's article is a fantastic entry point to look at cells from an evolutionar
 
 ## 2015 
 
-- Trapnell C. [Defining cell types and states with single-cell genomics.](https://doi.org/10.1101/gr.190595.115) Genome research. 2015 Oct 1;25(10):1491-8.
+### Trapnell C. [Defining cell types and states with single-cell genomics.](https://doi.org/10.1101/gr.190595.115) Genome research. 2015 Oct 1;25(10):1491-8.
 
 An early perspective of the impact of single-cell transcriptomics on the definition of "cell type" and the discovery of new cell classes. Discusses the technical advances from bulk techniques, and how that enables a fine-grained perspective on cell function; crucially discusses how incorrect grouping of samples might lead to *qualitatively incorrect* interpretations. Cole Trapnell considers also the perspective of pseudotime analysis (e.g. inferring directional time-based state changes from a static populational snapshot), a type of analysis he invented (or at least co-invented). He then goes on to discuss the technical aspects of scRNA-seq analysis and other single-cell omics. Waddington's developmental landscape and attractor basins/wells are constant topics throughout the article.
 
 ## 2014 
 
-- Kepecs A, Fishell G. [Interneuron cell types are fit to function.](https://doi.org/10.1038/nature12983) Nature. 2014 Jan 16;505(7483):318-26.
+### Kepecs A, Fishell G. [Interneuron cell types are fit to function.](https://doi.org/10.1038/nature12983) Nature. 2014 Jan 16;505(7483):318-26.
 
 A somewhat niche review focusing on interneurons, but provides insights for the larger classification of cell types. Provides a summarizing standpoint stating that they*the large diversity in interneuron classes may originate from a handful of cardinal cell types* (...) *we hope (we) will help to direct future studies by consolidating interneuron diversity into cardinal classes with specific ground states.*. They go further to consider that *nature has conspired to bestow on* (interneurons) *generalized computational function that necessitated the presence of common biophysical and hodological properties*
 
@@ -118,7 +118,7 @@ I do wish they had provided an actual list of "cardinal classes" of interneurons
 
 ## 2006 
 
-- Vickaryous MK, Hall BK. [Human cell type diversity, evolution, development, and classification with special reference to cells derived from the neural crest.](https://doi.org/10.1017/S1464793106007068) Biological reviews. 2006 Aug;81(3):425-55.
+### Vickaryous MK, Hall BK. [Human cell type diversity, evolution, development, and classification with special reference to cells derived from the neural crest.](https://doi.org/10.1017/S1464793106007068) Biological reviews. 2006 Aug;81(3):425-55.
 
 Vickaryous (great name, by the way) and Hall present a good overview of the cell type discussion, and provide a list of 411 in the adult *Homo sapiens*, including 145 types of names. Their catalog starts from *the cell as a component of one of the four basic tissue types (epithelial, nervous,
 muscular, and connective tissue* with divisions based on explicit anatomical, functional and molecular criteria, as well as relying on previous catalogs. They discuss individually the criteria for including/excluding several cell types, and make it clear that *acceptance of this compilation requires that each cell
