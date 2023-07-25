@@ -41,6 +41,23 @@ I also think that we should *not* create millions of classes and instead think w
 
 ## 2020 
 
+ - Miller JA, Gouwens NW, Tasic B, Collman F, van Velthoven CT, Bakken TE, Hawrylycz MJ, Zeng H, Lein ES, Bernard A. [Common cell type nomenclature for the mammalian brain.](https://doi.org/10.7554/eLife.59928) Elife. 2020 Dec 29;9:e59928.
+
+ 
+Jeremy Miller and colleagues at the Allen Institute discuss some of the challenges in organizing cell types in single cell transcriptomics. Miller under the motivation that a *community-recognized repository for storing and tracking cell type assignments and associated taxonomies does not currently exist*, and discusses current efforts related to the Cell Ontology and the formal organization of cell types. States the need for *(1) standard nomenclature and (2) centralized and standardized infrastructure associated with cell type classification.* While I agree with the latter, I do not necessarily agree with the need for standard nomenclature for all cell classes, maybe only for cardinal cell classes. 
+
+The work has a very practical feel for scRNA-seq and presents the *common cell type nomenclature (CCN), for matching and tracking cell types across studies.*, working on reference taxonomies "cell sets", which are assigned unique identifier tags. Has interesting definitions in Table 1, with clear value, but which mixes a bit too much the data clusters and the nature cell identities. Has all the merit of making definitions explicit. Two definitions are of special note: 
+
+*Cell set:	Any tagged group of cells in a taxonomy. This includes cell types, groups of cell types, and potentially other informative groupings (e.g., all cells from one donor, organ, cortical layer, or transgenic line).*
+
+*Provisional cell type: Quantitatively derived data cluster defined within a taxonomy. This is a specific example of a cell set that is of high importance, as most other cell sets are groupings of one or more provisional cell types.* 
+
+They also discuss and standardize concepts like a "cell set accession ID", a  "cell set label", a "cell set alias", a "cell set aligned alias" (*Analogous to ‘gene symbol’*). 
+They present several 5 use cases with real-world datasets that make the work have more molecular biology and less of philosophy of biology feel. The examples are limited to the brain, though some of the claims are intended to be more general. 
+
+In the final discussion, Jeremy contextualizes the CCN with the current efforts in the OBO Foundry (and even on the Wikidata knowledge graph, my topic of expertise) for organizing cell types. Claims that  we would benefit for *Centralizing a location for taxonomies, their associated cell sets, and underlying datasets*, and claims for a *cell type standards governing body* for *vetting ontologies for organizing data, controlled vocabulary for assigning cell type nomenclature, and will need to define a process for submission to ensure that critical data and metadata can be stored in a robust database"*, similar to the HUGO Gene Nomenclature Committee (HGNC), and mentions  *efforts under way through BRAIN Initiative-funded initiatives*. The Cell Ontology *de facto* plays some of those roles today, but I agree with Miller et al. that probably a more powerful (and well-funded) standards governing body could help accelerate the development of good standards. 
+
+
 - Fishell G, Kepecs A. Interneuron types as attractors and controllers. [Annual review of neuroscience.](https://doi.org/10.1146/annurev-neuro-070918-050421) 2020 Jul 8;43:1-30.
 
 In this continuation to 2014's "[Interneuron cell types are fit to function.](https://doi.org/10.1038/nature12983)", Fishell and Kepecs this time base their propositions on "attractor states" arguing that *subtype identity is generated using a configurational (rather than combinatorial) code of transcription factors* and analyzing evidence that *combinations of TFs can initialize but not realize cell fates*. They trace back the attractor concept to Waddington's work and argue that there is a translation of *Waddington's concepts of chreods (canalized paths of development) to trajectories and homeorhesis (the tendency to return to a path) to attractor states.* 
