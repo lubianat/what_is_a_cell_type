@@ -6,7 +6,7 @@ tiago.lubiana.alves@usp.br
 
 A chronological collection of the core scientific articles discussing the concept of cell type, cell state, and similar concepts.
 
-Comments on each publication reflect my own summarized view on each piece. Some might be longer, some might be shorter. I'll try to keep them to 1-2 paragraphs.
+Comments on each publication reflect my own summarized view on each piece. Some might be longer, some might be shorter. I'll try to keep them to 1-3 paragraphs.
 Longer analyses might be factored out in their own documents. 
 
 I have some focus on categorizing cell types for understanding human biology in the context of the Human Cell Atlas, but considerations across species might be present nevertheless.
@@ -37,7 +37,21 @@ An in-depth dissection of the analogy between organizing cells in types and orga
 
 Very interesting blogpost, with a computer-science oriented mindset and graph representations. Talks about "*cell types are a subset of cell states*" in a state space, meaning that "each cell type is a subset of the *total set* of states". Bernstein is talking about a particular cell and its states alongside its life cycle. Then, in the final part, he proceeds to define the concept across different individuals, by considering their set of states as *two disconnected, and approximately isomorphic subgraphs*. Bernstein has an all-inclusive view of cell type, where any arbitrary collection of cell states could be called a "cell type", a perspective I shared on a 2021 preprint called ["Towards a pragmatic definition of cell type"](https://www.authorea.com/users/384178/articles/501068-towards-a-pragmatic-definition-of-cell-type). I've been changing my mind, however, and preferring the term "cell class" for that idea, as the *term* cell type is probably better reserved for a particular kind of class with some characteristics, such as stable properties. 
 
-I also share the idea that we should *not* create millions of classes and instead think which classes are useful. That is important from the pragmatic standing point of computational ontologies, prized by Bernstein. His description implicitly considers that the Cell Ontology (or some other cell ontology) should represent disease states, what is currently (July 2023) not done. 
+I also think that we should *not* create millions of classes and instead think which classes are useful. That is important from the pragmatic standing point of computational ontologies, prized by Bernstein. His description implicitly considers that the Cell Ontology (or some other cell ontology) should represent disease states, which is currently not done (July 2023). 
+
+## 2020 
+
+- Fishell G, Kepecs A. Interneuron types as attractors and controllers. [Annual review of neuroscience.](https://doi.org/10.1146/annurev-neuro-070918-050421) 2020 Jul 8;43:1-30.
+
+In this continuation to 2014's "[Interneuron cell types are fit to function.](https://doi.org/10.1038/nature12983)", Fishell and Kepecs this time base their propositions on "attractor states" arguing that *subtype identity is generated using a configurational (rather than combinatorial) code of transcription factors* and analyzing evidence that *combinations of TFs can initialize but not realize cell fates*. They trace back the attractor concept to Waddington's work and argue that there is a translation of *Waddington's concepts of chreods (canalized paths of development) to trajectories and homeorhesis (the tendency to return to a path) to attractor states.* 
+
+They discuss Hobert 2016's concept of terminal selectors but somehow miss Detlev Arendt's Core Regulatory Complexes (see  "[The origin and evolution of cell types](https://doi.org/10.1038/nrg.2016.127)"). They advance on the idea of *cardinal interneuron types*, now in the context of single-cell transcriptomics.  They also discuss the role of interneurons in modulating circuits and the varieties that *specialize in targeting distinct pyramidal cell domains or compartments*.
+
+The section 3, they divide the generation of diversity in 3 categories, worth copying in full: *(a) Cardinal specification (nature) occurs when interneurons become postmitotic and define their intrinsic properties; (b) definitive specification (nurture) relies on cues imposed during migration and at the settling position and determines local afferent and efferent connectivity; and (c) state specification (circumstance) transpires when some interneuron subtypes change their gene expression in the context-specific brain activity.* This theoretical model goes beyond just the type-state duality and introduces a third dimension in the mix. The cardinal type, natural and intrinsic, alongside subtyping guided by orchestrated factors and complemented by local, transitive changes in expression in particular contexts.  
+
+They don't fix an absolute number of cardinal classes but talk about *the four largest cardinal classes*, PV, SST, VIP, and Lamp5 expressing interneurons, and other minor cardinal classes, still under discussion. 
+
+They start to contextualize the diversity of interneuron types during evolution, but the session is relatively short. An interesting statement is that *interneuron diversity is clearly very old. Turtles diverged from mammals approximately 320 million years ago, and yet these cell types have been maintained in surprisingly conserved form*.  
 
 # 2010's
 
