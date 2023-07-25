@@ -13,7 +13,7 @@ I have some focus on categorizing cell types for understanding human biology in 
 
 If you have additional articles that you think should be featured, just add an issue! 
 
-Citations are added in Vancouver style to preserve fine-grained publication date.
+Citations are added in Vancouver style to preserve fine-grained publication dates.
 
 
 # 2020s
@@ -22,14 +22,14 @@ Citations are added in Vancouver style to preserve fine-grained publication date
 
 ### Domcke S, Shendure J. [A reference cell tree will serve science better than a reference cell atlas](https://doi.org/10.1016/j.cell.2023.02.016). Cell. 2023 Mar 16;186(6):1103-14. 
 
-A pledge for an ontogenetic tree as the reference for classifying cell types. It brings exciting points of view, but misses essential literature such as [Jeff Doyle's "Cell types as species: Exploring a metaphor"](https://doi.org/10.3389/fpls.2022.868565) and the whole Cell Ontology endeavor. It extends the ontogenetic classification of *C. elegans* to other organisms, but requires critical technical advances before applying to humans.
+A pledge for an ontogenetic tree as the reference for classifying cell types. It brings exciting points of view but misses essential literature such as [Jeff Doyle's "Cell types as species: Exploring a metaphor"](https://doi.org/10.3389/fpls.2022.868565) and the whole Cell Ontology endeavor. It extends the ontogenetic classification of *C. elegans* to other organisms, but requires critical technical advances before applying to humans.
 
 
 ## 2022 
 
 ### Doyle JJ. [Cell types as species: Exploring a metaphor.](https://doi.org/10.3389/fpls.2022.868565) Frontiers in Plant Science. 2022 Aug 22;13:868565.
 
-An in-depth dissection of the analogy between organizing cells in types and organizing individual organisms in species. For different facets, such as "Philosophical underpinnings', Jeff Doyle explores the cell type side and the species side, finalizing with synthesis and outstanding questions. With an impressive coverage of the literature, and the clarity of the writing, the article is a must-read and, in my opinion, under-discussed in the human cell type community.  
+An in-depth dissection of the analogy between organizing cells in types and organizing individual organisms in species. For different facets, such as "Philosophical underpinnings', Jeff Doyle explores the cell type side and the species side, finalizing with synthesis and outstanding questions. With an impressive coverage of the literature and the clarity of the writing, the article is a must-read and, in my opinion, under-discussed in the human cell type community.  
 
 ## 2021
 
@@ -37,15 +37,15 @@ An in-depth dissection of the analogy between organizing cells in types and orga
 
 Very interesting blogpost, with a computer-science oriented mindset and graph representations. Talks about "*cell types are a subset of cell states*" in a state space, meaning that "each cell type is a subset of the *total set* of states". Bernstein is talking about a particular cell and its states alongside its life cycle. Then, in the final part, he proceeds to define the concept across different individuals, by considering their set of states as *two disconnected, and approximately isomorphic subgraphs*. Bernstein has an all-inclusive view of cell type, where any arbitrary collection of cell states could be called a "cell type", a perspective I shared on a 2021 preprint called ["Towards a pragmatic definition of cell type"](https://www.authorea.com/users/384178/articles/501068-towards-a-pragmatic-definition-of-cell-type). I've been changing my mind, however, and preferring the term "cell class" for that idea, as the *term* cell type is probably better reserved for a particular kind of class with some characteristics, such as stable properties. 
 
-I also think that we should *not* create millions of classes and instead think which classes are useful. That is important from the pragmatic standing point of computational ontologies, prized by Bernstein. His description implicitly considers that the Cell Ontology (or some other cell ontology) should represent disease states, which is currently not done (July 2023). 
+I also think that we should *not* create millions of classes and instead think about which classes are useful. That is important from the pragmatic standing point of computational ontologies, prized by Bernstein. His description implicitly considers that the Cell Ontology (or some other cell ontology) should represent disease states, which is currently not done (July 2023). 
 
 ## 2020 
 
 ### Miller JA, Gouwens NW, Tasic B, Collman F, van Velthoven CT, Bakken TE, Hawrylycz MJ, Zeng H, Lein ES, Bernard A. [Common cell type nomenclature for the mammalian brain.](https://doi.org/10.7554/eLife.59928) Elife. 2020 Dec 29;9:e59928.
 
  
-Jeremy Miller and colleagues at the Allen Institute discuss some of the practival  challenges in organizing cell types in single cell transcriptomics. States the need for *(1) standard nomenclature and (2) centralized and standardized infrastructure associated with cell type classification.*  It presents the *common cell type nomenclature (CCN), for matching and tracking cell types across studies.*.Two definitions are of special note: *Cell set:	Any tagged group of cells in a taxonomy.* and *Provisional cell type: (...) an specific example of a cell set that is of high importance*.  
-They contextualize the CCN with OBO Foundry ontologies and knowledge graphs and claimsfor a *cell type standards governing body* similar to the HUGO Gene Nomenclature Committee (HGNC). Such a body would be responsible for *controlled vocabulary for assigning cell type nomenclature* and defining *a process for submission to ensure that critical data and metadata can be stored in a robust database"*. As a note, the Cell Ontology and the cellxgene database *de facto* play some of those roles today, but maybe a scientific standards body could help on tying up all the bits together. 
+Jeremy Miller and colleagues at the Allen Institute discuss some of the practical  challenges in organizing cell types in single-cell transcriptomics. States the need for *(1) standard nomenclature and (2) centralized and standardized infrastructure associated with cell type classification.*  It presents the *common cell type nomenclature (CCN), for matching and tracking cell types across studies.*.Two definitions are of special note: *Cell set:	Any tagged group of cells in a taxonomy.* and *Provisional cell type: (...) a specific example of a cell set that is of high importance*.  
+They contextualize the CCN with OBO Foundry ontologies and knowledge graphs and claims for a *cell type standards governing body* similar to the HUGO Gene Nomenclature Committee (HGNC). Such a body would be responsible for *controlled vocabulary for assigning cell type nomenclature* and defining *a process for submission to ensure that critical data and metadata can be stored in a robust database"*. As a note, the Cell Ontology and the cellxgene database *de facto* play some of those roles today, but maybe a scientific standards body could help on tying up all the bits together. 
 
 
 ### Fishell G, Kepecs A. Interneuron types as attractors and controllers. [Annual review of neuroscience.](https://doi.org/10.1146/annurev-neuro-070918-050421) 2020 Jul 8;43:1-30.
@@ -95,13 +95,7 @@ An early perspective of the impact of single-cell transcriptomics on the definit
 
 ### Kepecs A, Fishell G. [Interneuron cell types are fit to function.](https://doi.org/10.1038/nature12983) Nature. 2014 Jan 16;505(7483):318-26.
 
-A somewhat niche review focusing on interneurons, but provides insights for the larger classification of cell types. Provides a summarizing standpoint stating that they*the large diversity in interneuron classes may originate from a handful of cardinal cell types* (...) *we hope (we) will help to direct future studies by consolidating interneuron diversity into cardinal classes with specific ground states.*. They go further to consider that *nature has conspired to bestow on* (interneurons) *generalized computational function that necessitated the presence of common biophysical and hodological properties*
-
-I like the wording of *cardinal classes*, as it is precisely vague in stating that these classes are important, even in absolute, developmentally-determined nature. They bring the interesting perspective of a core parts-list of neurons, that is somewhat malleable and can be employed in different contexts. Or, as the say, *a limited set of building blocks to create enormous diversity circuits*.
-
-An additional note is that they deal with 4 main different criteria combined to classify interneurons: morphology, connectivity pattern, markers, and "intrinsic properties" (firing patterns, I suppose). Also considers in detail the development of interneurons from *discrete proliferative regions*. Nevertheless, mentions that  *referring to an interneuron's origin as deriving from a specific embryonic structure may be an imprecise proxy for gene expression*.
-
-I do wish they had provided an actual list of "cardinal classes" of interneurons, even if provisional. Of note, the concept of "cardinal classes" is not super hot on the scientific literature, with 8 pubmed hits (Jul 2023, [link](https://pubmed.ncbi.nlm.nih.gov/?term=%22cardinal+classes%22+%2B+neuron)). It seems to fare better in the spinal chord community, with 2021 articles in Science and Nature Communications bearing the names [*"Conserved genetic signatures parcellate cardinal spinal neuron classes into local and projection subsets"*](https://doi.org/10.1126/science.abe0690) and [*"A harmonized atlas of mouse spinal cord cell types and their spatial organization"*](https://doi.org/10.1038/s41467-021-25125-1), neither citing this review.  A 2023 article on Neuron, [*"Cortical somatostatin interneuron subtypes form cell-type-specific circuits"*](https://doi.org/10.1016/j.neuron.2023.05.032), however, uses the concept for cardinal classes for cortical interneurons as a whole and does cite this review. 
+A somewhat niche review focusing on interneurons, but provides insights into the larger classification of cell types. Provides a summarizing standpoint stating that they*the large diversity in interneuron classes may originate from a handful of cardinal cell types* (...) *with specific ground states.*.  I like the wording of *cardinal classes*, as it is precisely vague in stating that these classes are important, even in absolute, developmentally-determined nature. They bring the interesting perspective of a core parts-list of neurons, that is somewhat malleable and can be employed in different contexts. Or, as they say, *a limited set of building blocks to create enormous diversity circuits*. They introduce 4 main different criteria combined to classify interneurons: morphology, connectivity pattern, markers, and "intrinsic properties" (firing patterns, I suppose). They also consider in detail the development of interneurons from *discrete proliferative regions*
 
 
 # 2000's
