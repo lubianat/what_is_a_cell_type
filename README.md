@@ -84,7 +84,11 @@ The article discusses explicitly cell type *homology* across species via the sha
 
 Arendt's article is a fantastic entry point to look at cells from an evolutionary perspective. The atlas-builders of today are usually interested in the current snapshot of cell types, in a fashion of evolution-stable account of cell types and their behaviours and humans. In many ways, atlas-builders are more interested in phenotype and function than in homology and history. Nevertheless, as the world is only one, having an evolutionary account of cell types is fundamental for efficiently organizing knowledge about cell types. 
 
+### Hobert O. [Terminal selectors of neuronal identity.](https://doi.org/10.1016/bs.ctdb.2015.12.007) Current topics in developmental biology. 2016 Jan 1;116:455-75.
 
+In this book chapter, Oliver Hobert explores the identities of neurons in *C. elegans*, an eutelic organism (fixed number of cells). Hobert looks at identity from a * “bottomup” angle* (...)  *development from the standpoint of the end product of neuronal development, asking how the terminal features of specific neuron types in a mature nervous system are genetically programmed.*. He discusses in depth his concept of "terminal selector", raised in 2008 and 2011, applied to transcription factors *that the behavioral phenotypes of these mutants match the phenotypic consequences of laser ablating these neuron types and they broadly affect many—if not all—known molecular markers*. These laser-ablation experiments are immensely informative, but somewhat restricted to simple organisms with very well-defined cell types. Hobert notes that the concept is an extension of an extension of the selector gene concept, by Garcia-Bellido (1975), *genes that define the identity of specific domains of a developing organism*. 
+
+Hobert discusses in depth the molecular evidence in *C. elegans* for terminal selectors, highlighting the coregulation of terminal effector genes by some transcription factors, their influence on particular molecular circuits, and the combinatorial way these terminal selectors are expressed and repressed, giving rise to diversity. 
 ## 2015 
 
 ### Trapnell C. [Defining cell types and states with single-cell genomics.](https://doi.org/10.1101/gr.190595.115) Genome research. 2015 Oct 1;25(10):1491-8.
