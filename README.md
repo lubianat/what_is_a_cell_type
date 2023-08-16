@@ -15,7 +15,6 @@ If you have additional articles that you think should be featured, just add an i
 
 Citations are added in Vancouver style to preserve fine-grained publication dates.
 
-
 # 2020s
 
 ## 2023 
@@ -72,6 +71,10 @@ They start to contextualize the diversity of interneuron types during evolution,
 A discussion of cell identity around 3 pillars: (1) phenotype and function as a central pillar, (2) lineage as a second dimension for full characterization and (3) state as the range of flexible sub-phenotypes a given identity can acquire. In this work, cell identity and cell type are treated as synonyms. Deals with cell types/identities as 'hard-wired' but reprogrammable and cell states as 'softwired'. 
 
 I like Samantha's consideration that  *cluster-specific gene expression is used to infer cell type, representing an initial prediction of identity that must be orthogonally validated*. This is often forgotten in large-scale transcriptomics study. 
+
+### Xia B, Yanai I. [A periodic table of cell types.](https://doi.org/10.1242/dev.169854) Development. 2019 Jun 15;146(12):dev169854.
+
+Taking advantage of 2019 as UNESCO's International Year of the Periodic Table, the authors explore the analogies between the periodic table of elements and the classification of cell types. They propose "cell types and cell fate transitions in a species can be organized in an analogous manner in a ‘periodic table of cell types`". They divide the table in columns falling into a "stem-cell phase", a "differentiation phase" and a "differentiated phase". They  focus on species-specific classifications and suggest starting with a periodic table of *C. elegans* before pursuing the *Homo sapiens* table. In my opinion, even though they take stretch the metaphor a bit too thin (as there is no actual _periodicity_, just parallelisms), they do provide interesting perspectives, such as the framing of species-specific catalogs and the different developmental categories.  
 
 ## 2017
 ### Clevers H, Rafelski S, Elowitz M, Klein A, Shendure J, Trapnell C, Lein E, Lundberg E, Uhlen M, Martinez-Arias A, Sanes JR. [What is your conceptual definition of “cell type” in the context of a mature organism?.](https://doi.org/10.1016/j.cels.2017.03.006) Cell Systems. 2017 Mar 22;4(3):255-9.
