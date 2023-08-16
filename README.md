@@ -107,7 +107,7 @@ A somewhat niche review focusing on interneurons, but provides insights into the
 
 ## 2013
 
-### Oestreich KJ, Weinmann AS. Master regulators or lineage-specifying? Changing views on CD4+ T cell transcription factors. Nature reviews Immunology. 2012 Nov;12(11):799-804.
+### Oestreich KJ, Weinmann AS. [Master regulators or lineage-specifying? Changing views on CD4+ T cell transcription factors.](https://doi.org/10.1038/nri3321) Nature reviews Immunology. 2012 Nov;12(11):799-804.
 
 Though somewhat niche for immune cells, Oestreich and Weinmann bring up general insights on the role of single, master transcription factors in the development and maintenance of cell identities. They challenge the "simplified paradigm of the master regulator (...) the premise that each developmental cell type is defined by a critical transcription factor (...) both required and sufficient for programming an individual cell fate. " By doing so, they also make explicit the master regulator paradigm and revalidate that in some circumstances, such as maintenance of CD4+ T cells by ZBTB7B, the system holds nicely. The core point of the article, however, is to defend a "new model, termed 'lineage-specifying' (... where) the co-expression of the lineage-specifying transcription factors can tip the scales to variable levels, causing intermediate phenotypes (X′ and Y′) in addition to the phenotypes that were previously viewed as end-point lineages (X and Y)"
 
