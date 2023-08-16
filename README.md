@@ -105,6 +105,12 @@ An early perspective of the impact of single-cell transcriptomics on the definit
 
 A somewhat niche review focusing on interneurons, but provides insights into the larger classification of cell types. Provides a summarizing standpoint stating that they*the large diversity in interneuron classes may originate from a handful of cardinal cell types* (...) *with specific ground states.*.  I like the wording of *cardinal classes*, as it is precisely vague in stating that these classes are important, even in absolute, developmentally-determined nature. They bring the interesting perspective of a core parts-list of neurons, that is somewhat malleable and can be employed in different contexts. Or, as they say, *a limited set of building blocks to create enormous diversity circuits*. They introduce 4 main different criteria combined to classify interneurons: morphology, connectivity pattern, markers, and "intrinsic properties" (firing patterns, I suppose). They also consider in detail the development of interneurons from *discrete proliferative regions*
 
+## 2013
+
+### Oestreich KJ, Weinmann AS. Master regulators or lineage-specifying? Changing views on CD4+ T cell transcription factors. Nature reviews Immunology. 2012 Nov;12(11):799-804.
+
+Though somewhat niche for immune cells, Oestreich and Weinmann bring up general insights on the role of single, master transcription factors in the development and maintenance of cell identities. They challenge the "simplified paradigm of the master regulator (...) the premise that each developmental cell type is defined by a critical transcription factor (...) both required and sufficient for programming an individual cell fate. " By doing so, they also make explicit the master regulator paradigm and revalidate that in some circumstances, such as maintenance of CD4+ T cells by ZBTB7B, the system holds nicely. The core point of the article, however, is to defend a "new model, termed 'lineage-specifying' (... where) the co-expression of the lineage-specifying transcription factors can tip the scales to variable levels, causing intermediate phenotypes (X′ and Y′) in addition to the phenotypes that were previously viewed as end-point lineages (X and Y)"
+
 
 # 2000's
 
