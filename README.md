@@ -32,7 +32,7 @@ An in-depth dissection of the analogy between organizing cells in types and orga
 
 ## 2021
 
-### Almeida N, Chung MW, Drudi EM, Engquist EN, Hamrud E, Isaacson A, Tsang VS, Watt FM, Spagnoli FM. Employing core regulatory circuits to define cell identity. The EMBO Journal. 2021 May 17;40(10):e106785.
+### Almeida N, Chung MW, Drudi EM, Engquist EN, Hamrud E, Isaacson A, Tsang VS, Watt FM, Spagnoli FM. [Employing core regulatory circuits to define cell identity.](https://doi.org/10.15252/embj.2020106785) The EMBO Journal. 2021 May 17;40(10):e106785.
 
 Nathalia Almeida (a fellow Brazilian) and colleagues provide a nice summary of the transcription-factor centered perspective of cell identity. Drawing on Hobert's Terminal Selectors, the text focuses on core regulatory circuitry (CRCs), comprised of "core TFs and their interconnected auto-regulatory loops", exemplified with the Pbx1 gene, a terminal selector for some dopaminergic neurons and CRC genes in the pancreas. Naturally, Almeida discusses Arendt's Core Regulatory Complexes, which introduces an element of physical cooperativity of TFs. The article discusses the processes by which CRCs can be uncovered through scRNA-seq and epigenomics techniques, as well as the technical limitations. Notably, presents the focus on core transcription factors as as way to improve cell type assignment as "a given cell is expected to show a unique set of TFs regardless of its state, which would help to distinguish between cell types and cell states". 
 
