@@ -1,7 +1,6 @@
 # What is a cell type? 
 
 By Tiago Lubiana 
-
 tiago.lubiana.alves@usp.br
 
 A chronological collection of the core scientific articles discussing the concept of cell type, cell state, and similar concepts.
@@ -18,6 +17,10 @@ Citations are added in Vancouver style to preserve fine-grained publication date
 # 2020s
 
 ## 2023 
+### Fleck JS, Camp JG, Treutlein B. [What is a cell type? A next step for cell atlases should be to chart perturbations in human model systems.](https://doi.org/10.1126/science.adf6162.) Science. 2023 Aug 17;381(6659):733-734. DOI: 
+
+This Perspective on Science disappointed me a bit, as it speaks very little about cell-type definitions. Feeding largely on the single-cell RNA-seq communities, the article skims the cell type x cell state framework and largely ignores all prior literature on what a cell type is. It is not a bad article, though, it discusses in technical detail the importance of experimental perturbations when charting cell atlases, as well as the need for multimodality phenotyping. It is just not about what a cell type is, and the title seems, unfortunately, a bit like a clickbait.
+
 
 ### Domcke S, Shendure J. [A reference cell tree will serve science better than a reference cell atlas](https://doi.org/10.1016/j.cell.2023.02.016). Cell. 2023 Mar 16;186(6):1103-14. 
 
