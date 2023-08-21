@@ -80,6 +80,14 @@ A discussion of cell identity around 3 pillars: (1) phenotype and function as a 
 
 I like Samantha's consideration that  *cluster-specific gene expression is used to infer cell type, representing an initial prediction of identity that must be orthogonally validated*. This is often forgotten in large-scale transcriptomics study. 
 
+### Bates AS, Janssens J, Jefferis GS, Aerts S. [Neuronal cell types in the fly: single-cell anatomy meets single-cell genomics.](https://doi.org/10.1016/j.conb.2018.12.012) Current opinion in neurobiology. 2019 Jun 1;56:125-34.
+
+Even though Bates and colleagues focus on the fly brain, many concepts are relevant for the more general task of deciding on what a cell type is. They talk about the consistency of scRNA-seq clusters, how genetic lines connect RNA profiles to morphology and how the body of techniques make "a full Drosophila neuronal parts list imminent". The article explicitly states that types are *"the reproducible product of definable genomic regulatory programs active during development"*. It uses the reproductive isolation criteria, a "a thought experiment that calibrates definitions based on
+other measures,", to state a similar hypothesis for neuroscience: *"Neurons of a type can be consistently identified across individuals but not consistently subdivided within individuals."*. I personally think it is an interesting toy model, but it does miss the state vs type discussion and leaves too much room for too granular cell types.  Anyways, the article also discusses two purpose of cell type classification: to simplify reasoning and facilitate scientific communication. This extends a bit the list of purposes put forth by Zeng and Sanes 2017. 
+
+
+
+
 ### Xia B, Yanai I. [A periodic table of cell types.](https://doi.org/10.1242/dev.169854) Development. 2019 Jun 15;146(12):dev169854.
 
 Taking advantage of 2019 as UNESCO's International Year of the Periodic Table, the authors explore the analogies between the periodic table of elements and the classification of cell types. They propose "cell types and cell fate transitions in a species can be organized in an analogous manner in a ‘periodic table of cell types`". They divide the table in columns falling into a "stem-cell phase", a "differentiation phase" and a "differentiated phase". They  focus on species-specific classifications and suggest starting with a periodic table of *C. elegans* before pursuing the *Homo sapiens* table. In my opinion, even though they take stretch the metaphor a bit too thin (as there is no actual _periodicity_, just parallelisms), they do provide interesting perspectives, such as the framing of species-specific catalogs and the different developmental categories.  
