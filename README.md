@@ -85,9 +85,18 @@ I like Samantha's consideration that  *cluster-specific gene expression is used 
 Taking advantage of 2019 as UNESCO's International Year of the Periodic Table, the authors explore the analogies between the periodic table of elements and the classification of cell types. They propose "cell types and cell fate transitions in a species can be organized in an analogous manner in a ‘periodic table of cell types`". They divide the table in columns falling into a "stem-cell phase", a "differentiation phase" and a "differentiated phase". They  focus on species-specific classifications and suggest starting with a periodic table of *C. elegans* before pursuing the *Homo sapiens* table. In my opinion, even though they take stretch the metaphor a bit too thin (as there is no actual _periodicity_, just parallelisms), they do provide interesting perspectives, such as the framing of species-specific catalogs and the different developmental categories.  
 
 ## 2017
+
+### Zeng H, Sanes JR. [Neuronal cell-type classification: challenges, opportunities and the path forward.](https://doi.org/10.1038/nrn.2017.85) Nature Reviews Neuroscience. 2017 Sep;18(9):530-46.
+
+Hongkui Zeng and Joshua Sanes produced a fine, extensive review of the body of knowledge related to the classification of neurons in particular and cells in general. It states clearly 3 principles for cell type classification: the incorporation of multiple quantitative criteria, the use of discontinuous variation for definitions, and the need for a hierarchical system of representation. As a side note, Cell Ontology does all of that but has been missed by the authors. The review also nicely describes the *purposes* behind cell type classification, including reproducibility of experiments, targeted experimental genetic modifications (e.g. in mice), the discovery of new types, the study of disease, and the generation of the "parts list" of the human body. The article plays with the analogies with species classification and mentions explicitly how phenetic systematics might be the most useful species-oriented framework for organizing cell types.
+
+
+This 
 ### Clevers H, Rafelski S, Elowitz M, Klein A, Shendure J, Trapnell C, Lein E, Lundberg E, Uhlen M, Martinez-Arias A, Sanes JR. [What is your conceptual definition of “cell type” in the context of a mature organism?.](https://doi.org/10.1016/j.cels.2017.03.006) Cell Systems. 2017 Mar 22;4(3):255-9.
 
 An influential collection of perspectives on the nature of cell type, mostly by leading biomedical researchers, with brief statements. Discusses the perspectives on cell types x cell states, the role of function and the increasingly important role of transcriptomics as a ruler to divide cell types apart. A must read and re-read.  
+
+
 
 ## 2016 
 ### Arendt D, Musser JM, Baker CV, Bergman A, Cepko C, Erwin DH, Pavlicev M, Schlosser G, Widder S, Laubichler MD, Wagner GP. [The origin and evolution of cell types.](https://doi.org/10.1038/nrg.2016.127) Nature Reviews Genetics. 2016 Dec;17(12):744-57.
