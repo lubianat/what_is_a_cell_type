@@ -33,6 +33,11 @@ A pledge for an ontogenetic tree as the reference for classifying cell types. It
 
 An in-depth dissection of the analogy between organizing cells in types and organizing individual organisms in species. For different facets, such as "Philosophical underpinnings', Jeff Doyle explores the cell type side and the species side, finalizing with synthesis and outstanding questions. With an impressive coverage of the literature and the clarity of the writing, the article is a must-read and, in my opinion, under-discussed in the human cell type community.  
 
+### Zeng H. [What is a cell type and how to define it?.](https://doi.org/10.1016/j.cell.2022.06.031) Cell. 2022 Jul 21;185(15):2739-55.
+
+This review by Hongkui Zeng got a lot of attention, but it is not exactly about what a cell type is. It is mostly concerned with how to set boundaries for *each cell type* and how one goes about defining each of these classes. These two ideas are mixed in a relatively confusing way throughout the text. I wrote a small blog post about it back then called '[The vast gap between defining “cell type” and defining a cell type](https://pointstodots.wordpress.com/2022/07/25/the-vast-gap-between-defining-cell-type-and-defining-a-cell-type/)'. Also, in figure 2, Zeng forces a single-hierarchy tree to organize cell types, a common attempt, but there is no core, natural reason why cells should form a single hierarchical classification. 
+The review is nevertheless quite good a read, it focuses on the mammalian brain and discusses the role of transcriptomics, morphology, and connectivity for crafting definitions for each cell type and covers much of the literature. It also mentions the cell types versus cell states, defining cell state as "a transient or dynamically responsive property of a cell to a context" and that each cell type may have many states.  It does miss discussing the Cell Ontology endeavor, unfortunately. 
+
 ## 2021
 
 ### Almeida N, Chung MW, Drudi EM, Engquist EN, Hamrud E, Isaacson A, Tsang VS, Watt FM, Spagnoli FM. [Employing core regulatory circuits to define cell identity.](https://doi.org/10.15252/embj.2020106785) The EMBO Journal. 2021 May 17;40(10):e106785.
