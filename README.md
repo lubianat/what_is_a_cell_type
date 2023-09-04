@@ -74,6 +74,32 @@ They start to contextualize the diversity of interneuron types during evolution,
 # 2010's
 
 ## 2019 
+
+### Sachkova M, Burkhardt P. [Exciting times to study the identity and evolution of cell types.](https://doi.org/10.1242/dev.178996) Development. 2019 Sep 19;146 (18):dev178996.
+
+This Meeting Review reports the fingins of The EMBO/EMBL Symposium on ‘The Identity and Evolution of Cell Types’ that took place in Heidelberg, Germany, on 15-19 May 2019. The symposium was organized by figures that introduced concepts like the Core Regulatory Complexes (CoRC; D. Arendt, G. Wagner) and terminal selectors (O. Hobert). They had a good assembly of research projects on the evolution of cell types. It makes explicit some important questions such as "How can we define a cell type?" and "What are the molecular mechanisms of cell identity?" It states that *"traditionally, a cell type is considered as a morphologically distinguishable entity that performs a specific function within an organism"*, a precisely vague definition. And goes on describing the works presented in the symposium, some of which I highlight here: 
+
+* Leonid Moroz showed that around 50 cell types can be distinguished transcriptionally for the placozoan *Trichoplax adhaerens* while only six cell types had been morphologically identified ([paper](https://www.nature.com/articles/s41598-020-69851-w)). He also argued that "neurons should be considered a functional category rather than necessarily representing a set of cells with a single evolutionary origin"
+
+* Amos Tanay presented the concept of "metacell", a combination of multiple cells in a scRNA-seq analysis to find types and states ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1812-2))
+
+* Detlev Arendt brought an "evolutionary definition of cell types to enable comparisons between species: a set of cells accessing the same regulatory programme driving differentiation" ([paper](https://doi.org/10.1016/j.conb.2019.01.022))
+
+* Gunter Wagner "suggested that one should consider the evolutionary origin of cell types as the evolution of a molecular mechanism that instantiates a cell type in development" and discussed how the development of decidual stromal cells is consistent with the CoRC model. 
+
+* Gerhard Schlosser  discussed the importance of recombination of gene regulatory networks as an important mechanism in cell type evolution. 
+
+* Maria Antonietta Tosches reported that TF combinatorial codes are not conserved between cortical glutamatergic cell types in mammals and reptiles. ([paper](https://doi.org/10.1016/j.conb.2019.04.009))
+
+* Ulrich Technau reported the conservation of effector modules in muscle cells between *Nematostella* and bilaterians. ([paper](https://www.nature.com/articles/s41467-023-37220-6))
+
+* Nicole King and Pawel Burhardt discussed  unicellular and multicellular choanoflagellates and the origin of multicellularity and specialization
+
+They also bring up some discussion on how to infer homology, and whether we should consider  "cells expressing the same set of effector genes (and having the same function/morphology) but regulated by different TFs as homologous".
+
+Overall it seemed like a wonderful meeting - I wish I was there to see it! 
+
+
 ### Morris SA. [The evolving concept of cell identity in the single cell era.](https://doi.org/10.1242/dev.169748) Development. 2019 Jun 15;146(12):dev169748.
 
 A discussion of cell identity around 3 pillars: (1) phenotype and function as a central pillar, (2) lineage as a second dimension for full characterization and (3) state as the range of flexible sub-phenotypes a given identity can acquire. In this work, cell identity and cell type are treated as synonyms. Deals with cell types/identities as 'hard-wired' but reprogrammable and cell states as 'softwired'. 
