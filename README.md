@@ -99,7 +99,6 @@ Taking advantage of 2019 as UNESCO's International Year of the Periodic Table, t
 Hongkui Zeng and Joshua Sanes produced a fine, extensive review of the body of knowledge related to the classification of neurons in particular and cells in general. It states clearly 3 principles for cell type classification: the incorporation of multiple quantitative criteria, the use of discontinuous variation for definitions, and the need for a hierarchical system of representation. As a side note, Cell Ontology does all of that but has been missed by the authors. The review also nicely describes the *purposes* behind cell type classification, including reproducibility of experiments, targeted experimental genetic modifications (e.g. in mice), the discovery of new types, the study of disease, and the generation of the "parts list" of the human body. The article plays with the analogies with species classification and mentions explicitly how phenetic systematics might be the most useful species-oriented framework for organizing cell types.
 
 
-This 
 ### Clevers H, Rafelski S, Elowitz M, Klein A, Shendure J, Trapnell C, Lein E, Lundberg E, Uhlen M, Martinez-Arias A, Sanes JR. [What is your conceptual definition of “cell type” in the context of a mature organism?.](https://doi.org/10.1016/j.cels.2017.03.006) Cell Systems. 2017 Mar 22;4(3):255-9.
 
 An influential collection of perspectives on the nature of cell type, mostly by leading biomedical researchers, with brief statements. Discusses the perspectives on cell types x cell states, the role of function and the increasingly important role of transcriptomics as a ruler to divide cell types apart. A must read and re-read.  
@@ -114,7 +113,7 @@ The article also includes an impressive [glossary](https://www.nature.com/articl
 
 The article discusses explicitly cell type *homology* across species via the sharing of conserved CoRCs. It also builds upon Oliver Hobert's notion of "terminal selectors", a set of transcription factors that establish and maintain postmitotic cell identity. Notably, it extends Owen's 1848 definition of homology to cell types, with a mechanistic explanation of  'same cell type regardless of form and function', with an example for muscle cells across species where *the CoRC from homologous cell types is conserved, whereas the phenotype of the cell is more flexible*. 
 
-Arendt's article is a fantastic entry point to look at cells from an evolutionary perspective. The atlas-builders of today are usually interested in the current snapshot of cell types, in a fashion of evolution-stable account of cell types and their behaviours and humans. In many ways, atlas-builders are more interested in phenotype and function than in homology and history. Nevertheless, as the world is only one, having an evolutionary account of cell types is fundamental for efficiently organizing knowledge about cell types. 
+Arendt's article is a fantastic entry point to look at cells from an evolutionary perspective. The atlas-builders of today are usually interested in the current snapshot of cell types, in a fashion of evolution-stable account of cell types and their behaviors and humans. In many ways, atlas-builders are more interested in phenotype and function than in homology and history. Nevertheless, as the world is only one, having an evolutionary account of cell types is fundamental for efficiently organizing knowledge about cell types. 
 
 ### Hobert O. [Terminal selectors of neuronal identity.](https://doi.org/10.1016/bs.ctdb.2015.12.007) Current topics in developmental biology. 2016 Jan 1;116:455-75.
 
@@ -142,6 +141,14 @@ Though somewhat niche for immune cells, Oestreich and Weinmann bring up general 
 
 # 2000's
 
+## 2005 
+
+### Bard J, Rhee SY, Ashburner M. [An ontology for cell types.](https://doi.org/10.1186/gb-2005-6-2-r21) Genome biology. 2005 Feb;6(2):1-5.
+
+The first article of the Cell Ontology (CL). CL started as a way to provide a controlled vocabulary for  "the major model organisms, both animal and plant" and included 680 cell classes. The article described a few competency queries like "list all of the genes in mouse, rat, human, and zebrafish that are expressed in the cell type Schwann_cell; CL:0000218". They discuss the design of species-neutral cell types to facilitate "de facto integration of data from diverse databases", with a focus on cell type homology and the implementation of a "complex hierarchy where a given term may  have several children and several parents", a different structure from the species' single tree. Bard et al also include cell types using "several different criteria that include: 'function' (for example, electrically_excitable_cell, secretory_cell, photosynthetic_cell), histology (for example, epthelial_cell, mesenchyme_cell), lineage (for example, ectodermal_cell, endodermal_cell) and ploidy (for example, haploid_cell, polyploid_cell)".
+
+As a note, the Cell Ontology is still strong in 2023, but its goals and scope have changed a bit. Now it is more focused on mammalian cell types and there is no attempt to fulfill the competency questions, which were gene-centric. The root cell types for the criteria (e.g. cell_type_by_histology) were obsoleted. Though the article does not discuss explicitly the concept of "cell type", it does provide some insight into the implicit concepts used when designing a classification system. 
+
 ## 2006 
 
 ### Vickaryous MK, Hall BK. [Human cell type diversity, evolution, development, and classification with special reference to cells derived from the neural crest.](https://doi.org/10.1017/S1464793106007068) Biological reviews. 2006 Aug;81(3):425-55.
@@ -151,5 +158,5 @@ muscular, and connective tissue* with divisions based on explicit anatomical, fu
 type listed is presumed to represent a mature, fully differentiated entity (cells are terminally differentiated) and that these cells have a stable differentiation*. These cell types are organized under 34 terminal artificial classification categories *(designated A to HH)*.
 Considers cell types *mutable biological units, comparable with species and genes*.
 
-They discuss cell-type catalogs throughout the second half of the XX century, specially Rodieck & Brening, 1983, but go as further as to discuss Schwann's seminal categorization of cells around 1839. Mentions briefly that the "analogy between cell types and organisms is not only convenient but practical". The Table 1. Pathways to cell type diversity is quite interesting, considering normal development, but also transdifferentiation and metaplasia, topics that are sometimes left aside. 
+They discuss cell-type catalogs throughout the second half of the XX century, especially Rodieck & Brening, 1983, but go as far as to discuss Schwann's seminal categorization of cells around 1839. Mentions briefly that the "analogy between cell types and organisms is not only convenient but practical". The Table 1. Pathways to cell type diversity are quite interesting, considering normal development, but also transdifferentiation and metaplasia, topics that are sometimes left aside. 
 
