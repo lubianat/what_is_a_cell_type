@@ -17,6 +17,11 @@ Citations are added in Vancouver style to preserve fine-grained publication date
 # 2020s
 
 ## 2023 
+
+### Amini S, Doyle JJ, Libault M. The evolving definition of plant cell type. Frontiers in Plant Science. 2023 Jan 1;14:1271070.
+
+Another very well-written article by Jeff Doyle and colleagues. It asks directly the question of how to classify cells and what criteria should be used and prioritized, while discussing the cell type/state dichotomy. It presents a very good overview of the recent discussions in animal cell biology, covering atlases, definitio - in my opinion, even better than the recent Cell and Science publications focused on animal cell types. It concludes that, for animals *the debate over what constitutes a cell type in theory, and how to identify cell types in practice, is likely to continue for the foreseeable future*. 
+
 ### Fleck JS, Camp JG, Treutlein B. [What is a cell type? A next step for cell atlases should be to chart perturbations in human model systems.](https://doi.org/10.1126/science.adf6162.) Science. 2023 Aug 17;381(6659):733-734. DOI: 
 
 This Perspective on Science disappointed me a bit, as it speaks very little about cell-type definitions. Feeding largely on the single-cell RNA-seq communities, the article skims the cell type x cell state framework and largely ignores all prior literature on what a cell type is. It is not a bad article, though, it discusses in technical detail the importance of experimental perturbations when charting cell atlases, as well as the need for multimodality phenotyping. It is just not about what a cell type is, and the title seems, unfortunately, a bit like a clickbait.
