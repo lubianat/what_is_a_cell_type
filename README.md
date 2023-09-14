@@ -18,7 +18,7 @@ Citations are added in Vancouver style to preserve fine-grained publication date
 
 ## 2023 
 
-### Amini S, Doyle JJ, Libault M. The evolving definition of plant cell type. Frontiers in Plant Science. 2023 Jan 1;14:1271070.
+### Amini S, Doyle JJ, Libault M. [The evolving definition of plant cell type.](https://doi.org/10.3389/fpls.2023.1271070) Frontiers in Plant Science. 2023 Jan 1;14:1271070.
 
 Another very well-written article by Jeff Doyle and colleagues. It asks directly the question of how to classify cells and what criteria should be used and prioritized, while discussing the cell type/state dichotomy. It presents a very good overview of the recent discussions in animal cell biology, covering atlases, definitio - in my opinion, even better than the recent Cell and Science publications focused on animal cell types. It concludes that, for animals *the debate over what constitutes a cell type in theory, and how to identify cell types in practice, is likely to continue for the foreseeable future*. 
 
