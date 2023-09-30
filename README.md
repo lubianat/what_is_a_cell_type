@@ -60,6 +60,12 @@ Very interesting blogpost, with a computer-science oriented mindset and graph re
 
 I also think that we should *not* create millions of classes and instead think about which classes are useful. That is important from the pragmatic standing point of computational ontologies, prized by Bernstein. His description implicitly considers that the Cell Ontology (or some other cell ontology) should represent disease states, which is currently not done (July 2023). 
 
+### Stadler T, Pybus OG, Stumpf MP. [Phylodynamics for cell biologists.](https://doi.org/10.1126/science.aah6266) Science. 2021 Jan 15;371(6526):eaah6266.
+
+In this review, the three authors draw from species phylodynamics (the mathematical study of speciation/evolution) to construct ideas regarding how cells are organized. They bring also an explicitly call for conceptual, theoretical developments to better take advantage of scRNA-seq data. It is an interesting piece, though it is a bit hazy on the distinction of trees of cell lineages (for single organisms) or evolutionary trees of cell types through multiple generations.
+
+
+
 ## 2020 
 
 ### Miller JA, Gouwens NW, Tasic B, Collman F, van Velthoven CT, Bakken TE, Hawrylycz MJ, Zeng H, Lein ES, Bernard A. [Common cell type nomenclature for the mammalian brain.](https://doi.org/10.7554/eLife.59928) Elife. 2020 Dec 29;9:e59928.
